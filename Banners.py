@@ -1,10 +1,33 @@
+apt update && apt upgrade
+
+pkg install python git
+
+git clone https://github.com/Ivan-Zaitsev/SMSBomber300
+
+
+ls
+
+cd SMSBomber300
+
+ls
+
+pip install -r requirements.txt
+
+python SMSBomber300.py
+
+[Последующие запуски]
+
+cd SMSBomber300
+
+python SMSBomber300.py
++967774753130
 
 import time , sys , os , pickle , colorama , random
 from colorama import Fore, Back, Style
 from colorama import init
 init()
-
-
+https://t.me/HackersArabic54
+https://t.me/iiii12355
 kol2 = 5
 version = 'Бета'
 servies_k = '30'
@@ -194,5 +217,6 @@ def banner_atack2():
   time.sleep(2)
   print(Fore.RED)
   print("Атака началась на ||" + str(_phone)+ "||\033[94mDDos-SMS-Attack\033[0m")
+
 
 
