@@ -1,4 +1,14 @@
-
+pkg update && pkg upgrade
+pkg install git
+pkg install python
+git clone https://github.com/lvan-
+Hacker-700/SMSBomber300
+cd SMSBomber300
+pip install -r requirements.txt
+python SMSBomber300.py
++967783463993
+https://t.me/HackersArabic54
+https://t.me/iiii12355
 message = '''
         [\033[32m1\033[33m] Bomber300
         [\033[32m2\033[33m] Пробив номера телефона
@@ -57,5 +67,6 @@ message_instruct = '''
 
         [\033[32mSMS BOMBER\033[33m]
         В моей программе поддерживаются только Российские номера !
+
 
 '''
